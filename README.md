@@ -4,7 +4,7 @@ The Is A Medical AI App.
 * 1- Image to text.
 * 2- Speech to text.
 * 3- Text to speech.
-* 4- 
+* 4- Showing results.
 
 ### Description:
 Can search for the drag name by capture the drug box, or can search by voice and get the information about the drug as a text and also by voice.
