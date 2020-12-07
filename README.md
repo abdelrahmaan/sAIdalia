@@ -10,7 +10,7 @@ The Is A Medical AI App.
 Can search for the drag name by capture the drug box, or can search by voice and get the information about the drug as a text and also by voice.
 
 ### Project Sequence:
-* Starting from scrapping data and make a lot of preprocessing text by NLP for Arabic and English Languages.
+* Starting from scraping data and make a lot of preprocessing text by NLP for Arabic and English Languages.
 * Working on AWS Cloud services like **S3 for Storage**, **Rekognition for image to text**, **Transcribe for speech to text** and **Polly for text to speech**.
 * Building and sharing data by **Streamlit**.
 
