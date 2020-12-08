@@ -1,5 +1,5 @@
 # sAIdalia
-The Is A Medical AI App.
+Is A Medical AI App.
 ### Aims:
 * 1- Image to text.
 * 2- Speech to text.
