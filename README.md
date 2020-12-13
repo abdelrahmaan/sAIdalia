@@ -15,4 +15,4 @@ Can search for the drag name by capture the drug box, or can search by voice and
 * Building and sharing data by **Streamlit**.
 
 #### [The notebook video code.](https://www.youtube.com/watch?v=9kK7A_lMamY)
-#### [Streamlit App](https://youtu.be/4BjGWzW77mY)
+#### [Streamlit video App](https://youtu.be/DsvzcLPFxrQ)
